@@ -46,7 +46,3 @@ MIT License
 
 *Author: Habib "The Ghost Analyst"*
 
-```
-
-You can swap `FriendZone CLI` with whichever name you pick, and replace the GitHub link with your repo URL. Want me to help you polish it further?
-```
